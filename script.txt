@@ -1,0 +1,24 @@
++ Configure Click Drop (d30d998a37dceafc95cd2b6722b9a77be5204f2e97a7d5bb70d18b705debe78269ce190f7cb731bd70b181d280c02960
+)
++ Create User Interface
++ Configure the Service
++ Create the Form
++ Return response as arrayBuffer
++ Convert Array buffer to base64 string
++ Display image on the page
+
+
+
++ https://medium.com/@koteswar.meesala/convert-array-buffer-to-base64-string-to-display-images-in-angular-7-4c443db242cd(Convert Array buffer to base64 string to display images in Angular 7
+)
+
+Concept to read:
+
++ Typed Array
++ Uint8Array
++ sanitizer
++ bypassSecurityTrustUrl
++ base64String
+
+
+
